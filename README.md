@@ -1,6 +1,6 @@
 Yii2 Birthday Picker
 ====================
-![example](http://gluon.rghost.ru/6FjTw4L4X/image.png)
+![example](https://camo.githubusercontent.com/1dfdc4f063f5f9c82d0ba4f67138682e512d581e/687474703a2f2f676c756f6e2e7267686f73742e72752f36466a5477344c34582f696d6167652e706e67)
 
 A Yii2 widget extension that allows you to easily create birthday form field.
 
