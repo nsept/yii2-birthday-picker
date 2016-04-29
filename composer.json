@@ -1,0 +1,21 @@
+{
+    "name": "nsept/yii2-birthday-picker",
+    "description": "A Yii2 widget extension that allows you to easily create birthday form field",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," widget"," birthday","date","picker"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nsept",
+            "email": "nsept@ya.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "nsept\\birthdaypicker\\": ""
+        }
+    }
+}
