@@ -37,7 +37,7 @@ class BirthdayPickerWidget extends InputWidget
         $list = [];
 
         for ($i = 0; $i < 12; $i++) {
-            $list[] = $formatter->format(mktime(0, 0, 0, $i, 1, 1970));
+            $list[] = $formatter->format(gmmktime(0, 0, 0, $i, 1, 1970));
         }
 
         $list[] = array_shift($list);
